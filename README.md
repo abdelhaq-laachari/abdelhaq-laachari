@@ -1,15 +1,6 @@
-### Hi 👋, I'm Abdelhaq Laachari
 
-            I'm a web Developer!!
-### While(brain != empty)
-### {
-###     keepCoding();
-### }
-###     else
-### {
-###     orderCoffee;
-### }
-
+<h1>Hi 👋, I'm Abdelhaq Laachari</h1>
+<h3 align="center">I'm a web Developer!!</h3>
 
 Here are some ideas to get you started:
 
