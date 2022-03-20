@@ -14,8 +14,8 @@
 - ⚡ Best Quote **Life is like riding a bicycle. To keep your balance, you must keep moving."Albert Einstein"**
 
 
-📷 [instagram][instagram] **|**
-👔 [linkedin][linkedin]
+- 📷 [instagram][instagram] **|**
+- 👔 [linkedin][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/abdelhaq-laachari-0a6b22203/
