@@ -15,7 +15,7 @@
 
 
 - 📷 [instagram][instagram] **|**
-- 👔 [linkedin][linkedin]
+👔 [linkedin][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/abdelhaq-laachari-0a6b22203/
