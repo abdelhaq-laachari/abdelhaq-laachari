@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdelhaq Laachari</h1>
-<h3 align="center">I'm a web Developer!!</h3>
+<h3 align="center">I'm a Full-Stack web Developer!!</h3>
 
 
 🌱 I’m currently learning **everything**
@@ -14,7 +14,6 @@
 - ⚡ Best Quote **Life is like riding a bicycle. To keep your balance, you must keep moving."Albert Einstein"**
 
 
-- 📷 [instagram][instagram] **|**
 👔 [linkedin][linkedin]
 
 
