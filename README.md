@@ -11,7 +11,7 @@
 
 - ⚡ Best Quote **Life is like riding a bicycle. To keep your balance, you must keep moving."Albert Einstein"**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
