@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelhaq</h1>
 <h3 align="center">A passionate full-stack web developer from Morocco</h3>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **Nodejs || Nextjs || Nestjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdelhaq-laachari](https://github.com/abdelhaq-laachari)
 
