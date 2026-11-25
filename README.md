@@ -2,7 +2,7 @@
 
 Full-stack developer from Morocco. I build complete products, from the first conversation with a client to production.
 
-🟢 **Open to work:** full-stack or mobile roles · remote, or relocation to the EU
+🟢 **Open to work:** full-stack or mobile roles · remote, or relocation.
 
 ### What I'm building
 
